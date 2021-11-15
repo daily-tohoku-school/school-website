@@ -1,0 +1,17 @@
+{
+  "name": "school-func",
+  "hash": "U1Bznvf1pWG8ZEbPLv8MHi4oNaAjQZnOIXXigA7rDG0=",
+  "description": "Default Lambda@Edge for Next CloudFront distribution",
+  "memory": 512,
+  "timeout": 10,
+  "code": "/home/stanaka/school-website/.serverless_nextjs/default-lambda",
+  "shims": [],
+  "handler": "index.handler",
+  "runtime": "nodejs14.x",
+  "env": {},
+  "role": {
+    "arn": "arn:aws:iam::183182933477:role/l1ehlm-e3l4zgb"
+  },
+  "arn": "arn:aws:lambda:us-east-1:183182933477:function:school-func",
+  "region": "us-east-1"
+}

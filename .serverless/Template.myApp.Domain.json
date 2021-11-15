@@ -1,0 +1,13 @@
+{
+  "region": "us-east-1",
+  "privateZone": false,
+  "domain": "daily-tohoku.school",
+  "subdomains": [
+    {
+      "domain": "www.daily-tohoku.school",
+      "distributionId": "E2HPOAZA5GEZ7N",
+      "url": "https://d3guaev6v2b6qv.cloudfront.net",
+      "type": "awsCloudFront"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "daily-tohoku-school",
+  "region": "us-east-1",
+  "accelerated": true,
+  "url": "https://daily-tohoku-school.s3.amazonaws.com"
+}

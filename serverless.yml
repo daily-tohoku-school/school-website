@@ -1,0 +1,9 @@
+myApp:
+  component: "@sls-next/serverless-component@3.2.0-alpha.20"
+  inputs:
+    bucketName: "daily-tohoku-school"
+    name: "school-func"
+    domain: ["daily-tohoku.school"]
+    domainType: "both"
+    domainRedirects:
+      www.daily-tohoku.school: https://daily-tohoku.school
