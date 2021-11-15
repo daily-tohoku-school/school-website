@@ -49,17 +49,20 @@ export default function Index() {
 
   return (
     <React.Fragment>
-      <Top 
+      <Top
         course={appBarConst.course}
         reservation={appBarConst.reservation}
         blog={appBarConst.blog}
+
         image={heroConst.image}
         imageText={heroConst.imageText}
         title={heroConst.title}
         description={heroConst.description}
         linkText={heroConst.linkText}
+
         heading1={headingConst[0].heading}
         heading2={headingConst[1].heading}
+
         reservationTitle={reservationConst.reservationTitle}
         reservationButton={reservationConst.reservationButton}
       />
