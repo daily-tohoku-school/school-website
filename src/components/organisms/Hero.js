@@ -11,7 +11,6 @@ const useStyles = makeStyles({
     position: 'relative',
     backgroundColor: '#ccc',
     color: '#fff',
-    // marginBottom: 40,
     marginBottom: 15,
     backgroundImage: 'url(https://source.unsplash.com/featured/?programming)',
     backgroundSize: 'cover',
