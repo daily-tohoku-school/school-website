@@ -20,7 +20,8 @@ export default function CompAppBar(props) {
         <Toolbar>
           <Typography variant="h5" color="textPrimary" align="center" className={classes.toolbarTitle}>
             <Link href="/"  color="inherit" underline="none">
-              デーリー東北プログラミング教室 と 夏休み学びパーク
+              {/* デーリー東北プログラミング教室 と 夏休み学びパーク */}
+              デーリー東北プログラミング教室
             </Link>
           </Typography>
         </Toolbar>
